@@ -1,0 +1,59 @@
+.homeimg{
+  min-height: 100%;
+  background-image:url('./images/home.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.color1{
+  color: #E74C3C;
+}
+.login{
+  min-height: 100%;
+  background-image:url('./images/login.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.register{
+  min-height: 100%;
+  background-image:url('./images/register.webp') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.texs{
+  font-size: 20px;
+}
+.bur{
+  border: 2px solid black;
+}
+.texi{
+  font-size: 30px;
+}
+.list{
+  min-height: 100%;
+  background-image:url('./images/list.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.about{
+  min-height: 100%;
+  background-image:url('./images/about.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.tex{
+  text-align: center;
+}
+.tn{
+  background: #E9F7EF;
+}
+.card1{
+  cursor: pointer;
+}
+.texwid{
+  width: 34px;
+}
